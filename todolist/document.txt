@@ -1,0 +1,5 @@
+Em mới thêm checkbox cho người dùng khi hoàn tất công việc, chỉnh sửa vai trò của nhân viên.
+Thêm hiển thị thông tin nhân viên, công việc và trạng thái công việc của nhân viên mà người dùng admin có thể xem được.
+Thêm tiến độ hoàn thành dự án ở mục xem project.
+tk admin: admin
+password: 123456
